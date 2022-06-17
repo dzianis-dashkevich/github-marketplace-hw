@@ -1,0 +1,1 @@
+[![codecov](https://codecov.io/gh/dzianis-dashkevich/github-marketplace-hw/branch/main/graph/badge.svg?token=9IP9SUZUOC)](https://codecov.io/gh/dzianis-dashkevich/github-marketplace-hw)
