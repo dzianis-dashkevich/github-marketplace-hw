@@ -1,3 +1,3 @@
 export const sum = (a, b) => a + b;
 
-console.log(sum(2, 2));
+export const addTwo = (a) => sum(a, 2);
